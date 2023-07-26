@@ -1,0 +1,64 @@
+{
+  "getAllStudentCode": [
+    "T2B3",
+    "W3EB",
+    "3M0I",
+    "R8F8",
+    "U8F7"
+  ],
+  "getAllClockedInStudent": [
+    {
+      "fullName": "Tope Alabi",
+      "code": "WQSD",
+      "lga": "Kosofe",
+      "timeIn": "14:35",
+      "timeOut": "14:47",
+      "id": 1689428114922
+    },
+    {
+      "fullName": "Segun Williams",
+      "code": "RDFE",
+      "lga": "Ibeju Lekki",
+      "timeIn": "14:51",
+      "timeOut": "14:52",
+      "isClockedIn": false,
+      "id": 1689429079235
+    },
+    {
+      "fullName": "Test",
+      "code": "Test",
+      "lga": "Test",
+      "timeIn": "15:0",
+      "timeOut": "15:2",
+      "isClockedIn": false,
+      "id": 1689429633582
+    },
+    {
+      "fullName": "Test2",
+      "code": "hgjs",
+      "lga": "Test2",
+      "timeIn": "15:3",
+      "timeOut": "15:5",
+      "isClockedIn": false,
+      "id": 1689429817232
+    },
+    {
+      "fullName": "hggh",
+      "code": "jhjh",
+      "lga": "jhghj",
+      "timeIn": "15:5",
+      "timeOut": "15:27",
+      "isClockedIn": false,
+      "id": 1689429940042
+    },
+    {
+      "fullName": "jkjkjk",
+      "code": "jkjk",
+      "lga": "kjkjk",
+      "timeIn": "15:22",
+      "timeOut": "15:29",
+      "isClockedIn": false,
+      "id": 1689430974163
+    }
+  ]
+}
